@@ -1,0 +1,4 @@
+opencv-python
+numpy
+Pillow
+scipy  # ← THIẾU DÒNG NÀY (đã dùng trong code)
